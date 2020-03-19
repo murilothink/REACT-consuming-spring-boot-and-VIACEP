@@ -1,6 +1,6 @@
 ## Consumindo API Spring Boot e Via CEP
 
-Nesse projeto usando React.js, iremos consumir uma api simples em [Spring Boot](https://github.com/facebook/create-react-app). e também iremos consumir a API do correrio, Via CEP.
+Nesse projeto usando React.js, iremos consumir uma api simples em [Spring Boot](https://github.com/murilothink/spring-boot-with-angular). e também iremos consumir a API do correrio, Via CEP.
 
 
 
